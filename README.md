@@ -21,7 +21,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/167923436-9e09d8a2-b491-4b44-a9ce-c6dfe2788670.png" height="45%" width="45%" alt="Admin Units"/>
+<img src="https://user-images.githubusercontent.com/104326475/167923436-9e09d8a2-b491-4b44-a9ce-c6dfe2788670.png" height="65%" width="65%" alt="Admin Units"/>
   
 <p/>
 
