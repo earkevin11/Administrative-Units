@@ -50,8 +50,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/167939960-6df25aac-01ab-4cf0-8d93-0e20e8f5564c.png
-" height="125%" width="125%" alt="Admin Units"/>
+<img src="https://user-images.githubusercontent.com/104326475/167939960-6df25aac-01ab-4cf0-8d93-0e20e8f5564c.png" height="125%" width="125%" alt="Admin Units"/>
   
 <p/>
 
